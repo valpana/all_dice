@@ -1,0 +1,11 @@
+D:\VisualStudioProjects\AllDice\bin\Debug\AllDice.exe.config
+D:\VisualStudioProjects\AllDice\bin\Debug\AllDice.exe
+D:\VisualStudioProjects\AllDice\bin\Debug\AllDice.pdb
+D:\VisualStudioProjects\AllDice\obj\Debug\AllDice.csproj.AssemblyReference.cache
+D:\VisualStudioProjects\AllDice\obj\Debug\AllDice.Properties.Resources.resources
+D:\VisualStudioProjects\AllDice\obj\Debug\AllDice.csproj.GenerateResource.cache
+D:\VisualStudioProjects\AllDice\obj\Debug\AllDice.csproj.CoreCompileInputs.cache
+D:\VisualStudioProjects\AllDice\obj\Debug\AllDice.exe
+D:\VisualStudioProjects\AllDice\obj\Debug\AllDice.pdb
+D:\VisualStudioProjects\AllDice\obj\Debug\AllDice.AllDice.resources
+D:\VisualStudioProjects\AllDice\obj\Debug\AllDice.info.resources
