@@ -1,18 +1,18 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\VisualStudioProjects\\AllDice\\",
+  "WorkspaceRootPath": "D:\\GitHub\\all_dice\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5713C916-837B-4ACF-8124-D484F1CF9C77}|AllDice.csproj|D:\\VisualStudioProjects\\AllDice\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{5713C916-837B-4ACF-8124-D484F1CF9C77}|AllDice.csproj|D:\\GitHub\\all_dice\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5713C916-837B-4ACF-8124-D484F1CF9C77}|AllDice.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5713C916-837B-4ACF-8124-D484F1CF9C77}|AllDice.csproj|d:\\github\\all_dice\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{5713C916-837B-4ACF-8124-D484F1CF9C77}|AllDice.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5713C916-837B-4ACF-8124-D484F1CF9C77}|AllDice.csproj|D:\\VisualStudioProjects\\AllDice\\info.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{5713C916-837B-4ACF-8124-D484F1CF9C77}|AllDice.csproj|D:\\GitHub\\all_dice\\info.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{5713C916-837B-4ACF-8124-D484F1CF9C77}|AllDice.csproj|solutionrelative:info.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5713C916-837B-4ACF-8124-D484F1CF9C77}|AllDice.csproj|d:\\visualstudioprojects\\alldice\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5713C916-837B-4ACF-8124-D484F1CF9C77}|AllDice.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,28 +22,28 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Form1.cs",
-              "DocumentMoniker": "D:\\VisualStudioProjects\\AllDice\\Form1.cs",
+              "DocumentMoniker": "D:\\GitHub\\all_dice\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
-              "ToolTip": "D:\\VisualStudioProjects\\AllDice\\Form1.cs",
+              "ToolTip": "D:\\GitHub\\all_dice\\Form1.cs",
               "RelativeToolTip": "Form1.cs",
-              "ViewState": "AgIAAN8AAAAAAAAAAAAAAPgAAAAoAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-04T15:53:26.343Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
-              "DocumentMoniker": "D:\\VisualStudioProjects\\AllDice\\Form1.cs",
+              "DocumentMoniker": "D:\\GitHub\\all_dice\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
-              "ToolTip": "D:\\VisualStudioProjects\\AllDice\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "ToolTip": "D:\\GitHub\\all_dice\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
               "RelativeToolTip": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-03T23:14:43.755Z",
@@ -51,15 +51,14 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "info.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
-              "DocumentMoniker": "D:\\VisualStudioProjects\\AllDice\\info.cs",
+              "DocumentMoniker": "D:\\GitHub\\all_dice\\info.cs",
               "RelativeDocumentMoniker": "info.cs",
               "ToolTip": "D:\\VisualStudioProjects\\AllDice\\info.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
-              "RelativeToolTip": "info.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "..\\..\\VisualStudioProjects\\AllDice\\info.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-04T21:09:49.054Z",
-              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+              "WhenOpened": "2024-12-04T21:09:49.054Z"
             }
           ]
         }
