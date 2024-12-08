@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -29,7 +29,6 @@ namespace AllDice
             total20.Text = "";
             totalAll.Text = "";
             txtTotal.Text = "";
-            totalD100.Text = "";
         }
 
         private void label4_Click(object sender, EventArgs e)
@@ -150,103 +149,5 @@ namespace AllDice
         {
 
         }
-
-        private void reset_Click(object sender, EventArgs e)
-        {
-            total4.Text = "";
-            total6.Text = "";
-            total8.Text = "";
-            total10.Text = "";
-            total12.Text = "";
-            total20.Text = "";
-            totalAll.Text = "";
-            txtTotal.Text = "";
-            totalD100.Text = "";
-            num4.Value = 0;
-            num6.Value = 0;
-            num8.Value = 0;
-            num10.Value = 0;
-            num12.Value = 0;
-            num20.Value = 0;
-        }
-
-        private void info_Click(object sender, EventArgs e)
-        {
-            info instructions = new info();
-            instructions.Show();
-        }
-
-        private void txtTotal_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void totalAll_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void num20_ValueChanged(object sender, EventArgs e)
-        {
-
-        }
-
-        private void num12_ValueChanged(object sender, EventArgs e)
-        {
-
-        }
-
-        private void num10_ValueChanged(object sender, EventArgs e)
-        {
-
-        }
-
-        private void num8_ValueChanged(object sender, EventArgs e)
-        {
-
-        }
-
-        private void num6_ValueChanged(object sender, EventArgs e)
-        {
-
-        }
-
-        private void num4_ValueChanged(object sender, EventArgs e)
-        {
-
-        }
-
-        private void D20_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void D12_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void D8_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void D6_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void D4_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void D100roll_Click(object sender, EventArgs e)
-        {
-            totalD100.Text = "";
-            int d100;
-            d100 = rand.Next(100) + 1;
-            totalD100.Text = d100 + "%";
-                }
     }
 }

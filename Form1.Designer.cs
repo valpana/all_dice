@@ -51,6 +51,8 @@
             this.txtTotal = new System.Windows.Forms.Label();
             this.ButtonInfo = new System.Windows.Forms.Button();
             this.reset = new System.Windows.Forms.Button();
+            this.D100roll = new System.Windows.Forms.Button();
+            this.totalD100 = new System.Windows.Forms.Label();
             ((System.ComponentModel.ISupportInitialize)(this.num4)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.num6)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.num8)).BeginInit();
@@ -341,12 +343,36 @@
             this.reset.UseVisualStyleBackColor = true;
             this.reset.Click += new System.EventHandler(this.reset_Click);
             // 
+            // D100roll
+            // 
+            this.D100roll.Font = new System.Drawing.Font("Verdana", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
+            this.D100roll.Location = new System.Drawing.Point(370, 420);
+            this.D100roll.Name = "D100roll";
+            this.D100roll.Size = new System.Drawing.Size(100, 50);
+            this.D100roll.TabIndex = 24;
+            this.D100roll.Text = "D%";
+            this.D100roll.UseVisualStyleBackColor = true;
+            this.D100roll.Click += new System.EventHandler(this.D100roll_Click);
+            // 
+            // totalD100
+            // 
+            this.totalD100.Font = new System.Drawing.Font("Verdana", 27.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
+            this.totalD100.ForeColor = System.Drawing.Color.Black;
+            this.totalD100.Location = new System.Drawing.Point(490, 420);
+            this.totalD100.Name = "totalD100";
+            this.totalD100.Size = new System.Drawing.Size(160, 50);
+            this.totalD100.TabIndex = 25;
+            this.totalD100.Text = "000%";
+            this.totalD100.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
+            // 
             // AllDice
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.WhiteSmoke;
             this.ClientSize = new System.Drawing.Size(734, 561);
+            this.Controls.Add(this.totalD100);
+            this.Controls.Add(this.D100roll);
             this.Controls.Add(this.reset);
             this.Controls.Add(this.ButtonInfo);
             this.Controls.Add(this.txtTotal);
@@ -413,6 +439,8 @@
         private System.Windows.Forms.Label txtTotal;
         private System.Windows.Forms.Button ButtonInfo;
         private System.Windows.Forms.Button reset;
+        private System.Windows.Forms.Button D100roll;
+        private System.Windows.Forms.Label totalD100;
     }
 }
 
